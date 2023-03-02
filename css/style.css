@@ -1,0 +1,50 @@
+body {
+    background-color: aliceblue;
+}
+
+h1{
+    color: rgb(55, 59, 55);
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    color: rgb(55, 59, 55);
+    display: flex;
+    justify-content: center;
+}
+
+
+#me {
+    float: left; 
+    margin-right: 5%; 
+  }
+
+#photo {
+    border-radius: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#aboutMetext {
+    display:inline-block;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+}
+
+.iconGit {
+    height:45px;
+    width: auto;
+}
+
+.iconLinked {
+    height:44px;
+    width: auto;
+}
+
+
